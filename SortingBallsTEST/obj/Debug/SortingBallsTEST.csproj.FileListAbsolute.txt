@@ -1,0 +1,17 @@
+c:\users\mikei\source\repos\SortingBallsKata\SortingBallsTEST\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\users\mikei\source\repos\SortingBallsKata\SortingBallsTEST\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\users\mikei\source\repos\SortingBallsKata\SortingBallsTEST\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\users\mikei\source\repos\SortingBallsKata\SortingBallsTEST\bin\Debug\SortingBallsTEST.dll
+c:\users\mikei\source\repos\SortingBallsKata\SortingBallsTEST\bin\Debug\SortingBallsTEST.pdb
+c:\users\mikei\source\repos\SortingBallsKata\SortingBallsTEST\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+c:\users\mikei\source\repos\SortingBallsKata\SortingBallsTEST\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+c:\users\mikei\source\repos\SortingBallsKata\SortingBallsTEST\bin\Debug\SortingBallsKata.exe
+c:\users\mikei\source\repos\SortingBallsKata\SortingBallsTEST\bin\Debug\SortingBallsKata.pdb
+c:\users\mikei\source\repos\SortingBallsKata\SortingBallsTEST\bin\Debug\SortingBallsKata.exe.config
+c:\users\mikei\source\repos\SortingBallsKata\SortingBallsTEST\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+c:\users\mikei\source\repos\SortingBallsKata\SortingBallsTEST\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+c:\users\mikei\source\repos\SortingBallsKata\SortingBallsTEST\obj\Debug\SortingBallsTEST.csprojAssemblyReference.cache
+c:\users\mikei\source\repos\SortingBallsKata\SortingBallsTEST\obj\Debug\SortingBallsTEST.csproj.CoreCompileInputs.cache
+c:\users\mikei\source\repos\SortingBallsKata\SortingBallsTEST\obj\Debug\SortingBallsTEST.csproj.CopyComplete
+c:\users\mikei\source\repos\SortingBallsKata\SortingBallsTEST\obj\Debug\SortingBallsTEST.dll
+c:\users\mikei\source\repos\SortingBallsKata\SortingBallsTEST\obj\Debug\SortingBallsTEST.pdb

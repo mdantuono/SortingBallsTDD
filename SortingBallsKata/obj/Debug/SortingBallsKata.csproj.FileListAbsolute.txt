@@ -1,0 +1,7 @@
+c:\users\mikei\source\repos\SortingBallsKata\SortingBallsKata\bin\Debug\SortingBallsKata.exe.config
+c:\users\mikei\source\repos\SortingBallsKata\SortingBallsKata\bin\Debug\SortingBallsKata.exe
+c:\users\mikei\source\repos\SortingBallsKata\SortingBallsKata\bin\Debug\SortingBallsKata.pdb
+c:\users\mikei\source\repos\SortingBallsKata\SortingBallsKata\obj\Debug\SortingBallsKata.csprojAssemblyReference.cache
+c:\users\mikei\source\repos\SortingBallsKata\SortingBallsKata\obj\Debug\SortingBallsKata.csproj.CoreCompileInputs.cache
+c:\users\mikei\source\repos\SortingBallsKata\SortingBallsKata\obj\Debug\SortingBallsKata.exe
+c:\users\mikei\source\repos\SortingBallsKata\SortingBallsKata\obj\Debug\SortingBallsKata.pdb
