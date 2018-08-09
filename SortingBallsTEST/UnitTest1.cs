@@ -10,7 +10,8 @@ namespace SortingBallsTEST
         [TestMethod]
         public void EmptyTest()
         {
-            int[] emptyArray = new int[] { };
+            Rack rack = new Rack();
+            int[] emptyArray = rack.DrawNoBalls();
             int[] expectedOutput = new int[] { };
 
             CollectionAssert.AreEqual(emptyArray, expectedOutput);

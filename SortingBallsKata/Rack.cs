@@ -8,10 +8,14 @@ namespace SortingBallsKata
 {
     public class Rack
     {
+        public int[] DrawNoBalls()
+        {
+            int[] balls = new int[] { };
+            return balls;
+        }
         public int[] DrawThreeBalls()
         {
             int[] balls = new int[] { 1, 2, 3 };
-
             return balls;
 
         }
@@ -29,8 +33,11 @@ namespace SortingBallsKata
             // RANDOM BALL GENERATION CODE
             // Instantiate new random class
             Random rnd = new Random();
+            // Chooses number of balls drawn between 1 and 15
             int numBalls = rnd.Next(1, 15);
+            // Creates array of size of how many balls
             int[] balls = new int[numBalls];
+            // Loop to choose balls between 0 and 59
             for (var i = 0; i < numBalls; i++)
             {
                 balls[i] = rnd.Next(0, 59);
