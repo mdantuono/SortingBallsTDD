@@ -8,10 +8,18 @@ namespace SortingBallsKata
 {
     public class Rack
     {
+        public Rack()
+        { }
+
         public int[] DrawNoBalls()
         {
             int[] balls = new int[] { };
             return balls;
+        }
+
+        public int AddBall(int number)
+        {
+            return number;
         }
         public int[] DrawThreeBalls()
         {

@@ -38,5 +38,26 @@ namespace SortingBallsTEST
 
             CollectionAssert.AreEqual(rackArray, expectedOutput);
         }
+
+        [TestMethod]
+        public void KeepAddingBalls()
+        {
+            Rack rack = new Rack();
+
+            int[] rackArray = rack.DrawNoBalls();
+            int[] expectedOutput = new int[] { };
+            CollectionAssert.AreEqual(rackArray, expectedOutput);
+            // Should return array of no size
+
+            rackArray[0] = rack.AddBall(0);
+            expectedOutput = new int[] { 0 };
+            CollectionAssert.AreEqual(rackArray, expectedOutput);
+
+
+            rackArray[1] = rack.AddBall(1);
+            expectedOutput = new int[] { 0, 1 };
+            CollectionAssert.AreEqual(rackArray, expectedOutput);
+
+        }
     }
 }
