@@ -12,7 +12,7 @@ namespace SortingBallsKata
         { }
 
         public int[] DrawNoBalls()
-        {
+        { 
             int[] balls = new int[] { };
             return balls;
         }
